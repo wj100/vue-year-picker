@@ -1,18 +1,20 @@
 # vue-year-picker
 
-> A Vue plugin to slide verify [Demo](https://monoplasty.github.io/vue-monoplasty-slide-verify/)
+> A Vue plugin to year picker
+>
+> ![image-20210824175756340](C:\Users\wb.wangjun21\AppData\Roaming\Typora\typora-user-images\image-20210824175756340.png)![image-20210824175816883](C:\Users\wb.wangjun21\AppData\Roaming\Typora\typora-user-images\image-20210824175816883.png)
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
+yarn
 
 # serve with hot reload at localhost:8080
-npm run dev
+yarn dev
 
 # build for production with minification
-npm run build
+npm build
 ```
 ## Quick Start
 

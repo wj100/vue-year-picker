@@ -1,9 +1,9 @@
 {
-  "name": "vue-monoplasty-slide-verify",
-  "version": "1.1.3",
-  "description": "vue slide verify",
+  "name": "vue-year-picker",
+  "version": "1.0.0",
+  "description": "vue year picker",
   "author": "wangjun <wj@wangjun.work>",
-  "main": "dist/slide-verify.js",
+  "main": "dist/year-picker.js",
   "license": "MIT",
   "private": false,
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monoplasty/vue-monoplasty-slide-verify.git"
+    "url": "https://github.com/wj100/vue-year-picker.git"
   },
   "dependencies": {
     "vue": "^2.5.11"
@@ -23,9 +23,9 @@
     "verify"
   ],
   "bugs": {
-    "url": "https://github.com/monoplasty/vue-monoplasty-slide-verify/issues"
+    "url": "https://github.com/wj100/vue-year-picker/issues"
   },
-  "homepage": "https://github.com/monoplasty/vue-monoplasty-slide-verify/blob/master/README.md",
+  "homepage": "https://github.com/wj100/vue-year-picker/blob/main/README.md",
   "browserslist": [
     "> 1%",
     "last 2 versions",
@@ -45,9 +45,5 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.11.5"
-  },
-  "engines": {
-    "node": ">= 6.0.0",
-    "npm": ">= 3.0.0"
   }
 }
