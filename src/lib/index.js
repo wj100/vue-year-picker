@@ -1,8 +1,8 @@
 import yearPicker from './year-picker.vue'
 
 const plugins = {
-  install(Vue) {
-      Vue.component(yearPicker.name, yearPicker)
+  install:function(Vue) {
+    Vue.component(yearPicker.name, yearPicker)
   }
 }
 

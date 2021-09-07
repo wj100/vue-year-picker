@@ -1,9 +1,9 @@
 import Vue from 'vue'
 import App from './App'
-import SlideVerify from './lib/index'
+import yearPicker from './lib/index'
 
 Vue.config.productionTip = false
-Vue.use(SlideVerify)
+Vue.use(yearPicker)
 
 /* eslint-disable no-new */
 new Vue({

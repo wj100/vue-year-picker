@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <year-picker v-model="year" @input="handlerInput" :year-disable="'no'" />
+    年份w
     <year-picker dark v-model="year" @input="handlerInput" :year-disable="'no'" />
   </div>
 </template>

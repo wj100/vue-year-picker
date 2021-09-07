@@ -1,5 +1,5 @@
 <template>
-  <div :class="dark&&'dark'">
+  <div :class="dark?'dark':''">
     <div class="year-picker">
       <input
         placeholder="请选择年份"
@@ -104,7 +104,7 @@ export default {
     }
   },
   mounted() {
-    console.log(this.dark)
+    // console.log(this.dark)
   }
 }
 </script>
