@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "vue year picker",
   "author": "wangjun <wj@wangjun.work>",
-  "main": "dist/year-picker.js",
+  "main": "src/lib/index",
   "license": "MIT",
   "private": false,
   "scripts": {
