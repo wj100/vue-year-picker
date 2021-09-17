@@ -2,7 +2,7 @@
   <div :class="dark?'dark':''">
     <div class="year-picker">
       <input
-        placeholder="请选择年份"
+        :placeholder="placeholder"
         :class="['year-picker__input','year-picker__input--real',showYearContent?'year-picker__input--focus':'']"
         v-model="value"
         type="text"
@@ -38,10 +38,14 @@ export default {
       default: 'no'
     },
     value: {
-      type: Number | String
+      type: [Number , String]
     },
     dark: {
       type: Boolean
+    },
+    placeholder:{
+        type:String,
+        default:'请选择年份'
     }
   },
   data() {

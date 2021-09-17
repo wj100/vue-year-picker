@@ -1,9 +1,9 @@
 {
   "name": "vue-year-picker",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "vue year picker",
   "author": "wangjun <wj@wangjun.work>",
-  "main": "src/lib/index",
+  "main": "dist/year-picker.js",
   "license": "MIT",
   "private": false,
   "scripts": {
@@ -19,8 +19,8 @@
   },
   "keywords": [
     "vue",
-    "slider",
-    "verify"
+    "year",
+    "picker"
   ],
   "bugs": {
     "url": "https://github.com/wj100/vue-year-picker/issues"
