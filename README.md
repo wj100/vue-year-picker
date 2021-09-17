@@ -2,7 +2,8 @@
 
 > 仿ant风格年份选择器
 >
-> ![image-20210917144111349](C:\Users\wb.wangjun21\AppData\Roaming\Typora\typora-user-images\image-20210917144111349.png)
+> ![image](https://user-images.githubusercontent.com/49010296/133737321-f0068d26-6e4f-4f10-a4eb-33f0f898f359.png)
+
 
 ## 使用方法
 
