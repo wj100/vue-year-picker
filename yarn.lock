@@ -239,6 +239,13 @@ atob@^2.1.2:
   resolved "https://registry.nlark.com/atob/download/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha1-bZUX654DDSQ2ZmZR6GvZ9vE1M8k=
 
+auto-size-echart@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/auto-size-echart/-/auto-size-echart-1.1.0.tgz#4e79f9c83f76783661e5587e8878c8806d034dec"
+  integrity sha512-saNqGiApJe4RcvKAHpnfcNnjHeuSPmvqhAyZK7iCL2o33UcLysdzWVSGGFSSOo2uhyNZcvyfiH7DehNbszV7pQ==
+  dependencies:
+    vue "^2.5.11"
+
 autoprefixer@^6.3.1:
   version "6.7.7"
   resolved "https://registry.nlark.com/autoprefixer/download/autoprefixer-6.7.7.tgz?cache=0&sync_timestamp=1629569933949&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fautoprefixer%2Fdownload%2Fautoprefixer-6.7.7.tgz#1dbd1c835658e35ce3f9984099db00585c782014"

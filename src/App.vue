@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    年份w
+    年份
     <year-picker dark v-model="year" @input="handlerInput" :year-disable="'no'" />
   </div>
 </template>
@@ -9,13 +9,16 @@ export default {
   name: 'demo',
   data() {
     return {
-      year: ''
-    }
+      year: '',
+    };
   },
   methods: {
     handlerInput(v) {
-      console.log(v)
-    }
-  }
-}
+      console.log(v);
+    },
+  },
+  mounted() {
+
+  },
+};
 </script>
